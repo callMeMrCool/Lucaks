@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://43.226.67.49:33306/homework?useSSL=false
+    username: root
+    password: 123456
+  application:
+    name: lucas
